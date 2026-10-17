@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../01-SumAverage/01-SumAverage.vcxproj" />
+  <Project Path="../02-MinMax/02-MinMax.vcxproj" />
+  <Project Path="../03-SecondMax/03-SecondMax.vcxproj" />
+  <Project Path="ArrayPractice.vcxproj" />
+</Solution>
